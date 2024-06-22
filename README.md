@@ -30,11 +30,11 @@ Download the datasets from [here](https://pan.baidu.com/s/1NjZxFxLCNcaTCu_uQO8NN
 MGANet
 └─data
     └─iSAID
-        └─train
-        └─val
+        ├─ train
+        ├─ val
     └─LoveDA
-    	└─train
-    	└─val
+    	├─ train
+    	├─ val
 ```
 
 
@@ -44,8 +44,8 @@ Download the ImageNet pretrained backbone from [here](https://pan.baidu.com/s/1l
 ```
 MGANet
 └─pretrained_model
-	└─resnet50_v2.pth
-	└─....
+	├─ resnet50_v2.pth
+	├─ ....
 ```
 
 We also provide the trained models weights for evaluation. [vgg16](https://drive.google.com/file/d/1SH3jOrV1zNyNJNyiEfPdNz7x7_7MWKjp/view?usp=drive_link),  [resnet50](https://drive.google.com/drive/folders/10W9SjQFjWVVF8JFTOypUaLSPMaNCirEl?usp=drive_link),  [resnet101](https://drive.google.com/drive/folders/1QNhpuzppl699Y3GE4nQLXpTN03hDPy-7?usp=drive_link), [Non-BAM](https://drive.google.com/drive/folders/1FgezcFfhQpaC5rvSg218CPKE0vjwkb8I?usp=drive_link).
@@ -66,8 +66,8 @@ bash test.sh
 ```
 MGANet
 └─utils
-   └─dataset.py
-   └─dataset-BAM.py
+   ├─ dataset.py
+   ├─ dataset-BAM.py
 
 ```
 
