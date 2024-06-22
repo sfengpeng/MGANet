@@ -4,7 +4,7 @@ This repository is for the paper "Multi-Granularity Aggregation Network for Remo
 
 ## Framework
 
-![framework](C:\Users\17961\Downloads\framework.png)
+![framework](C:\Users\Administrator\Desktop\framework.png)
 
 
 
@@ -13,8 +13,8 @@ This repository is for the paper "Multi-Granularity Aggregation Network for Remo
 ### Environment
 
 ```
-git clone https://github.com/ZrrSkywalker/Personalize-SAM.git
-cd Personalize-SAM
+git clone https://github.com/sfengpeng/MGANet.git
+cd MGANet
 
 conda create -n MGANet python=3.9
 conda activate MGANet
