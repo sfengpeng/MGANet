@@ -48,7 +48,7 @@ MGANet
 	└─....
 ```
 
-We also provide the trained models weights for evaluation. [vgg16](https://drive.google.com/file/d/1SH3jOrV1zNyNJNyiEfPdNz7x7_7MWKjp/view?usp=drive_link),  [resnet50](https://drive.google.com/drive/folders/10W9SjQFjWVVF8JFTOypUaLSPMaNCirEl?usp=drive_link),  [resnet101](https://drive.google.com/drive/folders/1QNhpuzppl699Y3GE4nQLXpTN03hDPy-7?usp=drive_link)
+We also provide the trained models weights for evaluation. [vgg16](https://drive.google.com/file/d/1SH3jOrV1zNyNJNyiEfPdNz7x7_7MWKjp/view?usp=drive_link),  [resnet50](https://drive.google.com/drive/folders/10W9SjQFjWVVF8JFTOypUaLSPMaNCirEl?usp=drive_link),  [resnet101](https://drive.google.com/drive/folders/1QNhpuzppl699Y3GE4nQLXpTN03hDPy-7?usp=drive_link), [Non-BAM](https://drive.google.com/drive/folders/1FgezcFfhQpaC5rvSg218CPKE0vjwkb8I?usp=drive_link).
 
 You need to pre-configure the script file with settings such as GPU, backbone network, and other parameters., and run the following code for training and testing:
 
